@@ -9,6 +9,6 @@ export class PriceDisplayComponent {
 
   @Input() price: number;
 
-  constructor() { }
+
 
 }

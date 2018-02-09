@@ -10,6 +10,4 @@ export class ProductRowComponent {
   @Input() product: Product;
   @HostBinding('attr.class') cssClass = 'item';
 
-  constructor() { }
-
 }

@@ -2,7 +2,7 @@ import { Component, Input, HostBinding } from '@angular/core';
 import { Product } from '../product.model';
 
 @Component({
-  selector: 'app-product-image',
+  selector: 'product-image',
   templateUrl: './product-image.component.html',
   styleUrls: ['./product-image.component.css']
 })
